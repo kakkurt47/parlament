@@ -23,7 +23,3 @@
 ### Heroku Kurulum ⏳
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaanbeyinix/batmoodmusic)
 -
-
-
-
-- Bu botu barındırmanın ikinci en kolay yolu, Okteto Cloud'da Dağıt. 
