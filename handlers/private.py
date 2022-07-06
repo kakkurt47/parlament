@@ -47,7 +47,7 @@ async def herkes(_, query: CallbackQuery):
                          "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="https://t.me/parliahmentasistan"
                      ),
                      InlineKeyboardButton(
-                         "Sohbet Grubu�", url="https://t.me/sohbetiparliahmenttt"
+                         "Sohbet Grubu�", url="https://t.me/sohbetiparlamenttt"
                      )
                  ],
                  [
@@ -75,7 +75,7 @@ async def cbstart(_, query: CallbackQuery):
                         "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
-                        "🇹🇷 𝖢𝗁𝖺𝗇𝗇𝖾𝗅", url=f"https://t.me/sohbetiparliahmenttt"
+                        "🇹🇷 𝖢𝗁𝖺𝗇𝗇𝖾𝗅", url=f"https://t.me/sohbetiparlamenttt"
                     )
                 ],
                 [
