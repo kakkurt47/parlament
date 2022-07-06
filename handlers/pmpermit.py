@@ -18,7 +18,7 @@ async def pmPermit(client: USER, message: Message):
                 return
             await USER.send_message(
                 message.chat.id,
-                "**Merhaba, Müzik asistanı hizmetidir**.\n [Destek Grubu](https://t.me/yesilyolsohbet)\n",
+                "**Merhaba, Müzik asistanı hizmetidir**.\n [Destek Grubu](https://t.me/sohbetiparlamenttt)\n",
             )
             return
  
