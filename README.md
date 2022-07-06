@@ -1,11 +1,11 @@
 ﻿
 # Müzik Bot 🇹🇷
-- [Müzik Bot](https://t.me/yesilyolsohbet) Telegram Müzik Bot .
+- [Müzik Bot](https://t.me/sohbetiparlamenttt) Telegram Müzik Bot .
 
 # Support 
-- [Support](https://t.me/yesilyolsohbet) Telegram Support Grub .
+- [Support](https://t.me/sohbetiparlamenttt) Telegram Support Grub .
 
-
+ 
 ### ⏳ Genel Komutlar
 - `/oynat` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ᴏʏɴᴀᴛ**
 - `/bul` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ɪɴᴅɪʀ** 
@@ -21,5 +21,5 @@
 
 
 ### Heroku Kurulum ⏳
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaanbeyinix/batmoodmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kakkurt47/parlament)
 -
